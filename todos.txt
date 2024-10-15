@@ -4,3 +4,4 @@
 * view programs functionality
 * login functionality
 * Register functionality
+* Various functionality
