@@ -3,3 +3,4 @@
 * update programs functionality
 * view programs functionality
 * login functionality
+* Register functionality
